@@ -1,6 +1,1 @@
-# Hello World
-
-This is a test file to verify GitHub MCP functionality.
-
-- Created on: January 1, 2025
-- Purpose: Testing GitHub MCP
+IyBIZWxsbyBXb3JsZAoKVGhpcyBpcyBhIHRlc3QgZmlsZSB0byB2ZXJpZnkgR2l0SHViIE1DUCBmdW5jdGlvbmFsaXR5LgoKLSBDcmVhdGVkIG9uOiBKYW51YXJ5IDEsIDIwMjUKLSBQdXJwb3NlOiBUZXN0aW5nIEdpdEh1YiBNQ1A=
